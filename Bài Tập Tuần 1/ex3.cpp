@@ -6,6 +6,6 @@ int main() {
     cout<<"Nam hien tai la bao nhieu : ";
     cin>>nam;
     cout<<"Xin chao"<<endl;
-    cout<<"Ban dang hoc lap trinh C vao nam "<<nam;
+    cout<<"Ban dang hoc lap trình C vao nam "<<nam;
     return 0;
 }
