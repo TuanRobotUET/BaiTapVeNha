@@ -1,3 +1,0 @@
-E:/VSCODE/BAITAP/cmake-build-debug/CMakeFiles/BAITAP.dir
-E:/VSCODE/BAITAP/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/VSCODE/BAITAP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

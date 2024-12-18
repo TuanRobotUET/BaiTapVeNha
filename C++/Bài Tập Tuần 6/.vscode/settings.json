@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "TEST.C": "cpp",
-        "math.h": "c",
-        "xutility": "c",
-        "iostream": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
